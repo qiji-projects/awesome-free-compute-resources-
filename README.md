@@ -1,4 +1,6 @@
-# Awesome Free GPU & Compute Resources 🚀
+# Awesome Free GPU & Compute Resources 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 
 A curated list of **free, sponsored, and grant-based GPU / compute resources**
 for **AI research, LLM training, and serious machine learning projects**.
